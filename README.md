@@ -8,24 +8,17 @@ Lab-3: Image stitching
 
 Lab-4: Space-invariant Blurring
 
+Lab-5: Space-variant blurring
 
+Lab-6: Shape from focus
 
+Lab-7: DFT and its properties.
 
+Lab-8: Transforms:DCT,Walsh-Haddamard,SVD
 
+Lab-9: Otsu Thresholding and K-Means Clustering
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+Lab 10: Non-Local Means filtering
 
 
 
